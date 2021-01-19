@@ -1,4 +1,13 @@
 #+TITLE: Facts
 #+CATEGORY: Facts
 #+TAGS: facts
+#+TODO: LEGIS 
+
+
+
+* LEGIS US Presidents cannot pardon state crimes
+
+* LEGIS In order to have standing a court must be able to provide relief for the claim
+
+* LEGIS Appelate courts do not allow the introduction of new evidence unless your original case appeal was due to evidence not being addmitted in the case. Scotty, there are no "small courts" and you cannot save your "big evidence for big courts".
 
